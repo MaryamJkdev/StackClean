@@ -1,0 +1,27 @@
+{
+  "name": "stackclean",
+  "version": "1.4.3",
+  "description": "Remove default boilerplate from React and Next.js projects instantly",
+  "main": "src/index.js",
+  "bin": {
+    "stackclean": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "boilerplate",
+    "clean",
+    "starter",
+    "cli"
+  ],
+  "author": "Maryam",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.3.5"
+  }
+}
