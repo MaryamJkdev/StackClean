@@ -1,6 +1,6 @@
 {
   "name": "stackclean",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Remove default boilerplate from React and Next.js projects instantly",
   "main": "src/index.js",
   "bin": {
@@ -19,6 +19,14 @@
   ],
   "author": "Maryam",
   "license": "MIT",
+  "homepage": "https://github.com/MaryamJkdev/StackClean",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaryamJkdev/StackClean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaryamJkdev/StackClean/issues"
+  },
   "type": "commonjs",
   "dependencies": {
     "chalk": "^4.1.2",
