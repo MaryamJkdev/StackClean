@@ -33,6 +33,10 @@ npx stackclean ./my-project
 - `src/` folder structure
 - App Router and Pages Router (Next.js)
 
+## Author
+
+Made by [Skyler](https://github.com/MeetSkyler)
+
 ## License
 
-ISC
+MIT

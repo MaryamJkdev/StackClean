@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// stackclean — Copyright (c) 2026 Maryam (maryamjk). All rights reserved.
+// stackclean — Copyright (c) 2026 Skyler (meetskyler). All rights reserved.
 // Unauthorized copying or redistribution of this package is strictly prohibited.
 // https://www.npmjs.com/package/stackclean
 
